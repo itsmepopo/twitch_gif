@@ -1,0 +1,18 @@
+﻿:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #ff0000; /* 빨강1 */
+  --color-2: #fffb00; /* 노랑 */
+  --color-3: #00ff4d; /* main color, 초록 */
+  --color-4: #0b00ff; /* sub  color, 파랑 */
+  --color-5: #ff00fe; /* 핑크 */
+
+  --logo-URL: url("https://4.bp.blogspot.com/-ih1-uFmH3AQ/XHkGc5zGWhI/AAAAAAAAGd0/HUSUwI1Rj3UhvANiu2VKy0-5tgw5YaR8gCLcBGAs/s1600/%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2B%25EB%25A1%259C%25EA%25B3%25A0%2B4.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("https://4.bp.blogspot.com/-ih1-uFmH3AQ/XHkGc5zGWhI/AAAAAAAAGd0/HUSUwI1Rj3UhvANiu2VKy0-5tgw5YaR8gCLcBGAs/s1600/%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2B%25EB%25A1%259C%25EA%25B3%25A0%2B4.png");
+  --pre-comment: "움짤 공장장 ";
+  --sub-comment: "명 열일중!";
+}
