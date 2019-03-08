@@ -1,0 +1,18 @@
+﻿:root {
+  --color-0: #FF1100; /* box color */
+
+  --color-1: #ffffff; /* 로고배경 */
+  --color-2: #f3edf5; /* 로고배경 공지배경 */
+  --color-3: #C39ADA; /* main color */
+  --color-4: #B36ADA; /* sub  color */
+  --color-5: #FAEDE7; /* */
+
+  --logo-URL: url("https://2.bp.blogspot.com/-Ae2vU8Tqr88/XHvhvFMtFdI/AAAAAAAAGjU/BBgnV7Yr-Ro3syTF3yAgmJGObXjGZpDCQCLcBGAs/s1600/%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2B%25EB%25A1%259C%25EA%25B3%25A0%2B5.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("https://2.bp.blogspot.com/-Ae2vU8Tqr88/XHvhvFMtFdI/AAAAAAAAGjU/BBgnV7Yr-Ro3syTF3yAgmJGObXjGZpDCQCLcBGAs/s1600/%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2B%25EB%25A1%259C%25EA%25B3%25A0%2B5.png");
+  --pre-comment: "CSS 공부중인 ";
+  --sub-comment: "명 힘내요!";
+}
